@@ -4,4 +4,6 @@ as Google newcomer like to call it
 
 In this repository you will find some of the previous asked interview Question from Google
 
-all information in here is as disclose by Google company
+all information in here is disclose by Google company and permitted to be use as public knowledge 
+
+
